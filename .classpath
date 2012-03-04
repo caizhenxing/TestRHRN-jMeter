@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/hessian-4.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Server"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CreateDB"/>
+	<classpathentry kind="lib" path="lib/memcached-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/jakarta-jmeter-2.4/lib/ext/ApacheJMeter_java.jar"/>
+	<classpathentry kind="lib" path="C:/jakarta-jmeter-2.4/lib/ext/ApacheJMeter_core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
